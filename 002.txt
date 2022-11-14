@@ -1,6 +1,6 @@
 ﻿{
  
- "spider":"https://ghproxy.com/https://raw.githubusercontent.com/ljmaizhyg111/MJ1/master/12313.txt",
+ "spider":"https://ghproxy.com/https://raw.githubusercontent.com/ljmaizhyg111/MJ1/master/jar/12313.txt",
    "wallpaper":"https://bg.s.welsun.win/api",
    "lives": [
      {
